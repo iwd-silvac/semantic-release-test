@@ -14,7 +14,7 @@
     "semantic-release": "^15.0.0"
   },
   "author": "",
-  "license": "ISC",
+  "license": "none",
   "bugs": {
     "url": "https://github.com/iwd-silvac/semantic-release-test/issues"
   },
